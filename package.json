@@ -4,6 +4,7 @@
   "author": "https://github.com/angular-ui/ui-mask/graphs/contributors",
   "license": "MIT",
   "homepage": "https://github.com/angular-ui/ui-mask",
+  "description": "Apply a mask on an input field so the user can only type pre-determined pattern.",
   "dependencies": {},
   "devDependencies": {
     "bower": "~1.3",
